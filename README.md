@@ -8,4 +8,4 @@
 snatesa1/snatesa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
--Building the automation project for News reader applocations 
+-Exploring new tools and technologies and collobrating with great minds
