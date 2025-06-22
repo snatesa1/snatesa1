@@ -1,0 +1,42 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+cursor-compose
+
+# Temporary files
+*.tmp
+*.temp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Pytest cache
+.cache
